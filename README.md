@@ -73,7 +73,8 @@
 **📫 How to Reach me:**
 <p align="center">
 <a href="https://github.com/ShenZiLi/ShenZiLi"><img src="https://img.shields.io/badge/Github%20-ShenZiLi-brightgreen.svg"></a>
-<a href="https://github.com/ShenZiLi/ShenZiLi"><img src="https://img.shields.io/badge/Wechat%20-梦想new的出来-brightgreen.svg"></a> <a href="http://www.jhplanet.cn:4000/"><img src="https://img.shields.io/badge/我的博客-点击跳转-brightgreen.svg"></a>
+<a href="https://leetcode.cn/u/zilishen"><img src="https://img.shields.io/badge/LeetCode%20-ShenZiLi-brightgreen.svg"></a> 
+<a href="https://shenzili.github.io/"><img src="https://img.shields.io/badge/我的博客-点击跳转-brightgreen.svg"></a>
 
 
     
