@@ -2,12 +2,12 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/Lvjinhong/Lvjinhong"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/ShenZiLi/ShenZiLi"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <img src="https://img.shields.io/badge/python-3.11-brightgreen.svg">
     <img src="https://img.shields.io/badge/祈愿-最美丽的奇迹-6633FF.svg">
-    <a href="https://github.com/Lvjinhong/Lvjinhong/stargazers"><img src="https://img.shields.io/github/stars/Lvjinhong?logo=github alt="visitors"
+    <a href="https://github.com/ShenZiLi/ShenZiLi/stargazers"><img src="https://img.shields.io/github/stars/ShenZiLi?logo=github alt="visitors"
 "></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Lvjinhong.Lvjinhong" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ShenZiLi.ShenZiLi" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
@@ -19,7 +19,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2366FFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Lvjinhong;+Welcome+to+My+Profile!;Always+learning+new+things+;坚信梦想new的出来;祈愿奇迹的力量;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2366FFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+ShenZiLi;+Welcome+to+My+Profile!;Always+learning+new+things+;坚信梦想new的出来;祈愿奇迹的力量;)](https://git.io/typing-svg)
 
 
    <!-- my-kaggle      -->
@@ -35,11 +35,11 @@
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Language**                              | ![CLion Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)   ![Java Badge](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=Java&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | **Domain Knownledge**                           |  [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FFCCFF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)   [![Linux Badge](https://img.shields.io/badge/-Linux-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/Lvjinhong/Lvjinhong) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/Lvjinhong/Lvjinhong) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/Lvjinhong/Lvjinhong)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Databases**                                   |  [![MySQL Badge](https://img.shields.io/badge/-MySQL%20-2b5d80?style=flat&logo=mysql&logoColor=fff)](https://github.com/Lvjinhong/Lvjinhong) [![Mongodb Badge](https://img.shields.io/badge/-MongoDB%20-white?style=flat&logo=mongodb&logoColor=00684A)](https://github.com/Lvjinhong/Lvjinhong)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **OS**                                          | [![Mac OS](https://img.shields.io/badge/-Mac%20OS-black?style=flat&logo=apple&logoColor=ffffff)](https://github.com/Lvjinhong/Lvjinhong)  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu&logoColor=E95420)](https://github.com/Lvjinhong/Lvjinhong)  [![Centos](https://img.shields.io/badge/-Centos-black?style=flat&logo=centos&logoColor=0078D4)](https://github.com/Lvjinhong/Lvjinhong) [![Windows](https://img.shields.io/badge/-Windows-black?style=flat&logo=windows&logoColor=0078D4)](https://github.com/Lvjinhong/Lvjinhong)                                                                                                                                                                                                                                                                          |
+| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/ShenZiLi/ShenZiLi) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/ShenZiLi/ShenZiLi) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/ShenZiLi/ShenZiLi)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Databases**                                   |  [![MySQL Badge](https://img.shields.io/badge/-MySQL%20-2b5d80?style=flat&logo=mysql&logoColor=fff)](https://github.com/ShenZiLi/ShenZiLi) [![Mongodb Badge](https://img.shields.io/badge/-MongoDB%20-white?style=flat&logo=mongodb&logoColor=00684A)](https://github.com/ShenZiLi/ShenZiLi)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **OS**                                          | [![Mac OS](https://img.shields.io/badge/-Mac%20OS-black?style=flat&logo=apple&logoColor=ffffff)](https://github.com/ShenZiLi/ShenZiLi)  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu&logoColor=E95420)](https://github.com/ShenZiLi/ShenZiLi)  [![Centos](https://img.shields.io/badge/-Centos-black?style=flat&logo=centos&logoColor=0078D4)](https://github.com/ShenZiLi/ShenZiLi) [![Windows](https://img.shields.io/badge/-Windows-black?style=flat&logo=windows&logoColor=0078D4)](https://github.com/ShenZiLi/ShenZiLi)                                                                                                                                                                                                                                                                          |
 | **Tools & Platform**                            | ![springboot](https://img.shields.io/badge/springboot-6666FF?style=for-the-badge&logo=springboot&logoColor=white)      | 
-| 
+
 ---
 
 
@@ -47,15 +47,15 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-![Lvjinhong's github activity graph](https://raw.githubusercontent.com/Lvjinhong/Lvjinhong/output/github-contribution-grid-snake.svg)
+![ShenZiLi's github activity graph](https://raw.githubusercontent.com/ShenZiLi/ShenZiLi/output/github-contribution-grid-snake.svg)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Lvjinhong's github stats](https://github-readme-stats.vercel.app/api?username=Lvjinhong&show_icons=true&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lvjinhong&layout=compact) |
+| ![ShenZiLi's github stats](https://github-readme-stats.vercel.app/api?username=ShenZiLi&show_icons=true&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenZiLi&layout=compact) |
 
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvjinhong" alt="GitHub Readme Streak Stats - 七彩之芒 奇迹之光 终会降临"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShenZiLi" alt="GitHub Readme Streak Stats - 七彩之芒 奇迹之光 终会降临"></img>
 </p>
 
 
@@ -68,12 +68,12 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Lvjinhong&bg_color=white&color=99CCFF&line=33FFFF&point=FF0033&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ShenZiLi&bg_color=white&color=99CCFF&line=33FFFF&point=FF0033&hide_border=true" /></a>
 
 **📫 How to Reach me:**
 <p align="center">
-<a href="https://github.com/Lvjinhong/Lvjinhong"><img src="https://img.shields.io/badge/Github%20-Lvjinhong-brightgreen.svg"></a>
-<a href="https://github.com/Lvjinhong/Lvjinhong"><img src="https://img.shields.io/badge/Wechat%20-梦想new的出来-brightgreen.svg"></a> <a href="http://www.jhplanet.cn:4000/"><img src="https://img.shields.io/badge/我的博客-点击跳转-brightgreen.svg"></a>
+<a href="https://github.com/ShenZiLi/ShenZiLi"><img src="https://img.shields.io/badge/Github%20-ShenZiLi-brightgreen.svg"></a>
+<a href="https://github.com/ShenZiLi/ShenZiLi"><img src="https://img.shields.io/badge/Wechat%20-梦想new的出来-brightgreen.svg"></a> <a href="http://www.jhplanet.cn:4000/"><img src="https://img.shields.io/badge/我的博客-点击跳转-brightgreen.svg"></a>
 
 
     
@@ -91,7 +91,7 @@
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lvjinhong" alt="BEPb" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShenZiLi" alt="BEPb" /></a>
 </p> 
 
 <div align="center">
@@ -105,7 +105,7 @@
 #### Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/Lvjinhong/count.svg">  
+<img src="https://profile-counter.glitch.me/ShenZiLi/count.svg">  
 </p>
 
 counting of visitors to this page in this section started from May 8, 2022
@@ -121,7 +121,7 @@ counting of visitors to this page in this section started from August 17, 2023
 
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Lvjinhong.github.readme" alt="Counter">
+  <img src="https://count.getloli.com/get/@ShenZiLi.github.readme" alt="Counter">
 </p>
 </br>
 
